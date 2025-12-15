@@ -8,3 +8,5 @@
 D1L4NN/D1L4NN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- Las siguientes actualizaciones siguientes van desde el 14 de Dciembre del 2025 en adelante / The following updates are effective from December 14, 2025 onwards:
+- Ultimmos cambios realizados:
